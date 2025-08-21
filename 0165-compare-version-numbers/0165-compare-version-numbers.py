@@ -1,10 +1,8 @@
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:
-        # Split versions into their revisions
         p1 = version1.split(".")
         p2 = version2.split(".")
 
-        # Loop until the longer one finishes
         n = max(len(p1), len(p2))
 
         for i in range(n):
