@@ -1,7 +1,7 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
         res = []
-        r1 = "qwertyuiop "
+        r1 = "qwertyuiop"
         r2 = "asdfghjkl"
         r3 = "zxcvbnm"
 
