@@ -10,14 +10,14 @@ class Solution:
         }
 
         i = len(s) - 1
-        out = []  
+        res = []  
 
         while i >= 0:
             if s[i] == '#':
-                out.append(mapping[s[i-2:i+1]])  
+                res.append(mapping[s[i-2:i+1]])  
                 i -= 3
             else:
-                out.append(mapping[s[i]])        
+                res.append(mapping[s[i]])        
                 i -= 1
 
-        return ''.join(reversed(out))  
+        return ''.join(reversed(res))  
