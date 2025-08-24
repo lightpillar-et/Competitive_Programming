@@ -1,8 +1,10 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        mapping = dict (Counter (nums))
-        for key , item in mapping.items() :
-            if item >1 :
+        mapping = {}
+        for i in nums :
+            if i in mapping :
                 return True 
+            else:
+                mapping [i] = None
         return False 
         
