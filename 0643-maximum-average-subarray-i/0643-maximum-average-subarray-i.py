@@ -4,7 +4,8 @@ class Solution:
         max_window =  window_sum  
         left = 0 
         for right in range (k , len(nums)):
-            window_sum  += nums[right] - nums[left]
+            window_sum  += nums[right]
+            window_sum -= nums[left]
             left +=1 
             max_window = max (window_sum , max_window)
         return max_window / k
