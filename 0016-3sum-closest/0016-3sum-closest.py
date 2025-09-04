@@ -8,14 +8,14 @@ class Solution:
          
 
             while left < right:
-                total = nums[i] + nums[left] + nums[right]
-                if total == target:
+                s = nums[i] + nums[left] + nums[right]
+                if s == target:
                     return target
-                if abs(target - total) < abs(target - result):
-                    result = total
+                if abs(target - s) < abs(target - result):
+                    result = s
 
                
-                elif total < target:
+                elif s < target:
                     left += 1
                 else:
                     right -= 1
