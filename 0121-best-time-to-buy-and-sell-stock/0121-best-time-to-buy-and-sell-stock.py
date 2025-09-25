@@ -1,12 +1,11 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        small = float ("inf")
-        profite = 0 
-        
-        for i in prices :
-            if i < small :
-                small = i 
+        profite = 0
+        left , right = 0 , 1
+        while right < len(prices):
+            if prices[left] < prices[right]:
+                profite = max(profite, prices[right]- prices[left])
             else:
-                profite  = max (profite , i - small)
-        return profite 
-        
+                left = right
+            right += 1
+        return profite
