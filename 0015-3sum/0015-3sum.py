@@ -1,27 +1,20 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        nums.sort ()
+        nums.sort()
+        res = set()   # using a set to avoid duplicates
 
-        for i in range (len(nums)) :
-            if i != 0 and nums[i] == nums[i-1] :
-                continue 
-            left , right = i+1 ,len(nums) -1
-            while left < right  :
-                if nums[i] + nums[left] + nums[right] > 0 :
-                    right -=1
-                elif nums[i] + nums[left] + nums[right] < 0 :
-                    left +=1 
-                else:
-                    res.append ([nums [i] , nums [left] , nums [right]])
-                    left += 1
-                    while nums [left] == nums[left -1] and left < right :
-                        left += 1
-                        
+        for i in range(len(nums)):
+            target = -nums[i]
+            seen = set()
 
-        return res
+            for j in range(i + 1, len(nums)):
+                needed = target - nums[j]   # like inverse logic
 
-        
+                if needed in seen:
+                    triplet = tuple(sorted([nums[i], nums[j], needed]))
+                    res.add(triplet)
+                seen.add(nums[j])
 
+        return [list(t) for t in res]
 
         
