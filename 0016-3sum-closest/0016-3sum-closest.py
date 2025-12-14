@@ -9,13 +9,16 @@ class Solution:
 
             while left < right:
                 s = nums[i] + nums[left] + nums[right]
+                
                 if s == target:
                     return target
-                if abs(target - s) < abs(target - result):
+                cur_distance  = abs(target - s)
+                best_distance = abs (target - result)
+                if cur_distance < best_distance:
                     result = s
 
                
-                elif s < target:
+                if s < target:
                     left += 1
                 else:
                     right -= 1
