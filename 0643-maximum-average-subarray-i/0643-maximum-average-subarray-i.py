@@ -1,14 +1,14 @@
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
-        res = float ("-inf")
-        window_sum = 0
-        left = 0 
-        for right in range (len(nums)) :
-            window_sum  += nums [right]
-            if right  - left +1 == k :
-                res = max (window_sum / k , res)
-                window_sum  = window_sum - nums[left]
-                left +=1 
-        return res
-              
+        window_sum = sum (nums[:k]) 
+        left , right = 0 , k
+        while right <len(nums) :
+            cur_window = window_sum - nums[left] + nums[right]
+            window_sum = max (window_sum , cur_window)
+            left +=1
+            right +=1
+        return window_sum / k
+            
+
+
         
