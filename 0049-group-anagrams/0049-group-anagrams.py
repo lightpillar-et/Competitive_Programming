@@ -1,16 +1,17 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        res = {}
-        for each in strs :
-            key = "".join (sorted (each))
-            if key not in res :
-                res [key] = [each]
+        groups = dict()
 
-            else :
-                res [key].append (each)
-        return list (res.values ())
+        for word in strs :
+            key = "".join(sorted(word))
+
+            if key not in groups :
+                groups[key] = [word]
+            else:
+                groups[key].append(word)
+        return list(groups.values())
 
 
 
-
+            
         
