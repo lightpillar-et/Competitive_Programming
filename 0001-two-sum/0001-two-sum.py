@@ -2,9 +2,11 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         seen = {}
         
-        for index , value in enumerate(nums):
-            check = target - value 
+        for i in range (len(nums)):
+            cur = nums[i]
+            check = target - cur 
             if check in seen :
-                return (index , seen[check])
-            seen[value] = index 
+                return (i , seen[check])
+            seen[cur] = i 
         return False 
+        
