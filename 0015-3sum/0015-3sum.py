@@ -1,35 +1,34 @@
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
-        nums.sort()                 
-        res = []                  
+    def threeSum(self, nums):
+        #sorting the array so we can use two pointers easily
+        nums.sort()
+        result = []
 
-        for i in range(len(nums)):  
+        for i in range(len(nums)):
+            #skipping duplicates , be defualt the first number is unique 
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
-
+            cur = nums[i]
             left = i + 1
             right = len(nums) - 1
-            target = -nums[i]     # inverse logic
-
+            #then do the two sum logic after we got out cur start 
             while left < right:
-                two_sum = nums[left] + nums[right]
+                total = nums[i] + nums[left] + nums[right]
 
-                if two_sum < target:
+                if total < 0:
                     left += 1
-                elif two_sum > target:
+                elif total > 0:
                     right -= 1
                 else:
-                    res.append([nums[i], nums[left], nums[right]])
-
-                    # Skip duplicates on left
-                    while left < right and nums[left] == nums[left + 1]:
-                        left += 1
-
-                    # Skip duplicates on right
-                    while left < right and nums[right] == nums[right - 1]:
-                        right -= 1
+                    result.append([cur, nums[left], nums[right]])
 
                     left += 1
                     right -= 1
+                    #still skiping duplicates 
+                    while left < right and nums[left] == nums[left - 1]:
+                        left += 1
 
-        return res
+                    while left < right and nums[right] == nums[right + 1]:
+                        right -= 1
+
+        return result
