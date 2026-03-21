@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
@@ -54,4 +55,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
