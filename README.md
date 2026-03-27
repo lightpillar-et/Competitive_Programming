@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@
 | [0015-3sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
