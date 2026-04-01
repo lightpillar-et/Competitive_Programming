@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -63,6 +65,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
