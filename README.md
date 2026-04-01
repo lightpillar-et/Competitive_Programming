@@ -36,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0242-valid-anagram/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0541-reverse-string-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@
 | [0015-3sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0541-reverse-string-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
