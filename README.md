@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,12 +72,22 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0541-reverse-string-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0011-container-with-most-water/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 <!---LeetCode Topics End-->
