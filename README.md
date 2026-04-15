@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Hash Table
@@ -90,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lightpillar-et/Competitive_Programming/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
