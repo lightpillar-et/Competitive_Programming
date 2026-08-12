@@ -1,7 +1,20 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s = Counter (s)
-        t = Counter (t)
-        return s == t
+        if len(s) != len(t):
+            return False
 
-        
+        count_s = {}
+        count_t = {}
+
+        for char in s:
+            count_s[char] = count_s.get(char, 0) + 1
+
+        for char in t:
+            if char in count_t :
+                count_t[char] +=1
+            else:
+                count_t[char] =1 
+
+
+
+        return count_s == count_t
