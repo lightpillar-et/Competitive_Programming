@@ -1,17 +1,10 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups = dict()
-
+        mapping = {}
         for word in strs :
-            key = "".join(sorted(word))
-
-            if key not in groups :
-                groups[key] = [word]
+            cur = str (sorted(word))
+            if cur in mapping :
+                mapping[cur].append(word)
             else:
-                groups[key].append(word)
-        return list(groups.values())
-
-
-
-            
-        
+                mapping[cur] = [word]
+        return list (mapping.values())
