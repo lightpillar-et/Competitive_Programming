@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0015-3sum/) | Medium |
+| [0036-valid-sudoku](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -22,6 +23,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
@@ -104,4 +106,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
