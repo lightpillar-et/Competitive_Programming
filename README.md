@@ -29,6 +29,7 @@
 | [0205-isomorphic-strings](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0541-reverse-string-ii/) | Easy |
 ## Divide and Conquer
