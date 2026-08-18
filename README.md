@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0205-isomorphic-strings/) | Easy |
@@ -117,6 +119,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/lightpillar-et/Competitive_Programming/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
